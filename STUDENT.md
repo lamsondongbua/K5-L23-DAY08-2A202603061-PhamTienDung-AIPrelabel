@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: https://github.com/lamsondongbua
 - Repo bài nộp (URL): https://github.com/lamsondongbua/K5-L23-DAY08-2A202603061-PhamTienDung-AIPrelabel.git
-- Commit chốt bài (hash): tạm thời chưa có
+- Commit chốt bài (hash): c377a4541e9e1f43638767dd1559264ac4e064a9
 - Máy: Windows 11, GPU NVIDIA RTX 3050 Laptop 4 GB (CUDA 12.4 / PyTorch 2.6.0)
 - CVAT (Docker): v2.81.0
 
