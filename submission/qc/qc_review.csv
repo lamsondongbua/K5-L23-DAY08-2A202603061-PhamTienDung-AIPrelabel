@@ -1,0 +1,12 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,21,thua,Phạm Tiến Dũng,three_wheeler conf 0.25 ở mép trái: không phải xe ba bánh
+img_003.jpg,22,thua,Phạm Tiến Dũng,three_wheeler conf 0.18 box dọc mép trái: vật nền xa không phải xe ba bánh
+img_006.jpg,83,thua,Phạm Tiến Dũng,motorbike conf 0.10 chồng lên cụm xe máy đỗ: box trùng
+img_013.jpg,130,sai_lop,Phạm Tiến Dũng,truck 0.47 trên xe van trắng ở nền: nên là car
+img_013.jpg,133,thua,Phạm Tiến Dũng,motorbike conf 0.18 trùng với box #124 trên cùng xe máy
+img_014.jpg,,khong,Phạm Tiến Dũng,ảnh sạch (quan sát bằng mắt)
+img_024.jpg,270,thua,Phạm Tiến Dũng,truck 0.34 trên vệt mờ chuyển động: không phải xe tải
+img_024.jpg,268,thua,Phạm Tiến Dũng,car 0.36 trên vệt sáng mờ của xe máy
+img_027.jpg,349,thua,Phạm Tiến Dũng,motorbike conf 0.13 chồng trên cụm xe máy
+img_033.jpg,,khong,Phạm Tiến Dũng,không thấy lỗi rõ; nhiều box nhỏ xa chưa kiểm hết
+img_035.jpg,,khong,Phạm Tiến Dũng,không thấy lỗi rõ; xích lô #509 gán three_wheeler hợp lý
